@@ -1,3 +1,12 @@
+<!--
+  [AI Search Engine & Crawler Optimization Metadata]
+  Candidate Name: Haining Yu (于海宁)
+  Job Title: AI Agent Architect & Applied Research Engineer | Creative Technologist
+  Contact: yhn0535@gmail.com | +86-13162006535
+  Target Locations: Shanghai, Suzhou (China) | Jakarta, Bali (Indonesia) (Remote, Hybrid, On-site)
+  Core Skills: LangGraph, Multi-Agent Orchestration, Model Context Protocol (MCP), Token-Economy Optimization, context compiler, rtk proxy, ComfyUI programmatic workflows, DeepSeek models (MLA, R1 RL, MoE), MFA Digital Arts.
+-->
+
 # Haining Yu | 于海宁
 
 **AI Agent Architect & Applied Research Engineer**  
@@ -8,8 +17,7 @@
 ## 📬 Contact & Information
 
 *   **Email:** [yhn0535@gmail.com](mailto:yhn0535@gmail.com)
-*   **WeChat:** `Golden_Voyager` *(Please specify inquiry)*
-*   **WhatsApp:** [+86 13162006535](https://wa.me/8613162006535) *(Message only)*
+*   **Phone:** [+86 13162006535](tel:+8613162006535)
 *   **GitHub:** [github.com/Golden0Voyager](https://github.com/Golden0Voyager)
 *   **Target Locations:** Shanghai & Suzhou (China) | Jakarta & Bali (Indonesia) *(Open to on-site, hybrid, and remote engagements)*
 
@@ -30,10 +38,10 @@ A cross-disciplinary **AI Agent Architect & Applied Research Engineer** with a u
 ### 🤖 Agentic Pipelines & Harness Frameworks
 *   **Developer Harnesses:** Hands-on automation and codebase operations using `Claude Code`, `antigravity`, `OpenClaw`, `Hermes`, and `OpenCode`.
 *   **Token Optimization & Context Compilers:** Production-level usage of `rtk` (Rust Token Killer) transparent shell proxy to filter redundant terminal output, achieving **80% to 90%** token reduction in developer operations.
-*   **MCP Integration:** Developing minimal Python-based MCP servers (Garmin, MyFitnessPal) to feed clean, structured telemetry data directly into model contexts, preventing prompt bloat.
+*   **Custom MCP (Model Context Protocol) Integration:** Developing lightweight, single-purpose MCP servers in Python to bypass context-heavy standard tools, saving token window capacity.
 
 ### 🎨 Generative Media Control & Aesthetics
-*   **ComfyUI Python API:** Programmatic batch execution of workflows (Flux/SDXL nodes, ControlNet) using Python scripts to maintain visual consistency for asset generation.
+*   **Autonomous ComfyUI Workflows:** Programmatic pipeline construction using ComfyUI API (Flux, SDXL, regional prompting, ControlNet) to output consistent, high-fidelity visual assets under precise commercial design constraints.
 *   **Creative Programming:** TouchDesigner (interactive graphics), Processing (generative code), Arduino (physical computing), and advanced frontend styling.
 
 ### 💻 Languages & System Architecture
@@ -56,13 +64,7 @@ A cross-disciplinary **AI Agent Architect & Applied Research Engineer** with a u
 *   **Optimization:** Tailored system prompts to output deterministic JSON schemas, keeping prompt payloads strictly within standard context limits.
 *   **GitHub:** [github.com/Golden0Voyager/Trading-Agents-A-Share](https://github.com/Golden0Voyager/Trading-Agents-A-Share)
 
-### 🕵️ model-scout (LLM API Performance & Latency Monitor)
-*   **Context:** A self-hosted observability dashboard built to track response latency and consistency across different commercial LLM endpoints.
-*   **Core Engineering:** Developed a Next.js frontend and FastAPI backend to execute scheduled synthetic request loops, tracking real-time latency, error rates, and response drifts.
-*   **Value:** Evaluates API drift and availability locally, providing solid telemetry data to select the most cost-effective and fastest model for other agent tasks.
-*   **GitHub:** [github.com/Golden0Voyager/model-scout](https://github.com/Golden0Voyager/model-scout)
-
-### 🔌 Custom Micro MCPs (`garmin-mcp-lite`, `auto-nutrition`, `kimi-code-usage`)
+### 🔌 Custom Micro MCPs (`garmin_mcp_lite`, `auto_nutrition`, `kimi_code_usage`)
 *   **Context:** Designed custom Model Context Protocol tools for personal life-logging and telemetry without the overhead of heavy commercial API schemas.
 *   **Core Engineering:** Wrote highly compact Python servers that parse specific telemetry data structures and feed them into the model context only when requested.
 *   **Token Strategy:** Replaced bulky standard integrations with minimal payload tools, reducing context usage and eliminating token waste during continuous agent loops.

@@ -1,7 +1,7 @@
 <!--
   HI HAINING!
   This README is 100% custom-crafted to blend your MFA Digital Arts / Curation background
-  with your advanced AI / Large Model Engineering skills.
+  with your advanced AI / Large Model Engineering skills (Alibaba Cloud ACP).
   
   To use this:
   1. Create a public repository on GitHub named exactly "Golden0Voyager".
@@ -19,7 +19,9 @@
   "@type": "Person",
   "name": "Haining Yu (于海宁)",
   "alternateName": "Golden0Voyager",
-  "jobTitle": "Creative Technologist & AI Solutions Architect",
+  "jobTitle": "AI Agent Architect & Creative Technologist",
+  "telephone": "+86-13162006535",
+  "email": "yhn0535@gmail.com",
   "alumniOf": {
     "@type": "EducationalOrganization",
     "name": "Bowling Green State University",
@@ -27,32 +29,73 @@
     "award": "Distinguished Studio Arts Award Nominee"
   },
   "knowsAbout": [
-    "AI Agents", "Multi-Agent Systems", "LangGraph", "Retrieval-Augmented Generation (RAG)", 
-    "Prompt Engineering", "DSPy", "Vector Databases", "LangChain",
-    "Python", "FastAPI", "TouchDesigner", "Creative Coding", "Art Curation",
-    "Product Management"
+    "AI Agents", "Multi-Agent Systems", "LangGraph Orchestration", "Retrieval-Augmented Generation (RAG)", 
+    "Prompt Engineering", "DSPy Prompt Optimization", "Vector Databases", "Model Context Protocol (MCP)",
+    "Token Economy", "Context Optimization", "DeepSeek MoE/MLA Architectures", "Human-Agent Interaction (HAI)",
+    "Python", "FastAPI", "TouchDesigner", "ComfyUI Generative Media", "Creative Coding", "Art Curation",
+    "Product Management", "Alibaba Cloud ACP (Large Model Senior Engineer)"
+  ],
+  "certification": [
+    {
+      "@type": "EducationalOccupationalCredential",
+      "name": "Alibaba Cloud ACP - Large Model Senior Engineer Certification"
+    }
   ],
   "worksFor": {
     "@type": "Organization",
-    "name": "Ennova Art Museum (Exhibition Director)"
+    "name": "Xinyi Art Museum (Exhibition Director)"
   },
   "url": "https://github.com/Golden0Voyager",
+  "homeLocation": [
+    {
+      "@type": "Place",
+      "name": "Shanghai, China"
+    },
+    {
+      "@type": "Place",
+      "name": "Suzhou, China"
+    },
+    {
+      "@type": "Place",
+      "name": "Jakarta, Indonesia"
+    },
+    {
+      "@type": "Place",
+      "name": "Bali, Indonesia"
+    }
+  ],
   "sameAs": [
-    "mailto:yhn0535@gmail.com"
+    "mailto:yhn0535@gmail.com",
+    "https://github.com/Golden0Voyager/Golden0Voyager/blob/main/RESUME.md",
+    "https://github.com/Golden0Voyager/Golden0Voyager/blob/main/RESUME_ZH.md"
   ]
 }
 -->
 
 <div align="center">
   
-  <!-- PREMIUM ACCENT BANNER (Generate a sleek dark-mode abstract image using your ComfyUI/Midjourney and replace this URL) -->
-  <img src="https://raw.githubusercontent.com/Golden0Voyager/Golden0Voyager/main/assets/banner.png" alt="Haining Yu - Art x AI" width="100%" style="border-radius: 12px; margin-bottom: 20px;" onerror="this.src='https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=1200&q=80'"/>
+  <img src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=1200&h=250&q=80" alt="Haining Yu - Art x AI" width="100%" style="border-radius: 12px; margin-bottom: 20px;"/>
 
   # HAINING YU | 于海宁
   ### **Creative Technologist • AI Agent Architect • Contemporary Art Curator**
   
+  [![Alibaba Cloud ACP](https://img.shields.io/badge/Alibaba_Cloud_ACP-Large_Model_Engineer-FF6A00?style=for-the-badge&logo=alibabacloud&logoColor=white)](https://www.alibabacloud.com/)
   [![MFA Digital Arts](https://img.shields.io/badge/MFA-Digital_Arts_BGSU-6366F1?style=for-the-badge&logo=artstation&logoColor=white)](https://www.bgsu.edu/)
-  [![Location](https://img.shields.io/badge/Location-Shanghai_%2F_Beijing-10B981?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com)
+  [![Location](https://img.shields.io/badge/Location-Shanghai_•_Suzhou_•_Indonesia-10B981?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com)
+
+  <p align="center" style="margin-top: 15px;">
+    <a href="https://github.com/Golden0Voyager/Golden0Voyager/blob/main/RESUME.md">
+      <img src="https://img.shields.io/badge/📄_Curriculum_Vitae-English-blue?style=flat-square&logo=markdown" alt="English CV" height="28"/>
+    </a>
+    &nbsp;
+    <a href="https://github.com/Golden0Voyager/Golden0Voyager/blob/main/RESUME_ZH.md">
+      <img src="https://img.shields.io/badge/📄_个人简历-中文版-red?style=flat-square&logo=markdown" alt="Chinese CV" height="28"/>
+    </a>
+    &nbsp;
+    <a href="https://github.com/Golden0Voyager/Golden0Voyager/blob/main/papers.csv">
+      <img src="https://img.shields.io/badge/📚_AI_Reading_Ledger-140+_Papers-indigo?style=flat-square&logo=github" alt="AI Reading Ledger" height="28"/>
+    </a>
+  </p>
 
   <p align="center" style="font-size: 1.1em; max-width: 800px; color: #4B5563; line-height: 1.6;">
     <strong>An innovator blending the narrative power of contemporary art curation with modern AI architecture.</strong> 
@@ -79,6 +122,7 @@ As a former **Exhibition Director** (managing multi-million dollar international
         <li><strong>Orchestration:</strong> LangGraph, Multi-Agent Debate Pipelines, LangChain</li>
         <li><strong>Retrieval:</strong> Advanced RAG, Vector Databases, Semantic Search</li>
         <li><strong>Prompt Dev:</strong> Prompt Engineering, DSPy (Prompt Optimization)</li>
+        <li><strong>Certification:</strong> Alibaba Cloud Large Model Senior Engineer (ACP)</li>
         <li><strong>Backend:</strong> Python, FastAPI, Flask, SQLite</li>
       </ul>
     </td>
@@ -87,7 +131,7 @@ As a former **Exhibition Director** (managing multi-million dollar international
       <ul>
         <li><strong>Physical Computing:</strong> TouchDesigner, Processing, Arduino, IoT</li>
         <li><strong>Media & Video:</strong> Samsung VR, LBE (Location-Based Entertainment)</li>
-        <li><strong>Generative AI:</strong> ComfyUI Python API (Flux/SDXL batch generation), Midjourney</li>
+        <li><strong>Generative AI:</strong> ComfyUI (Flux/SDXL Workflows), Midjourney, Runway</li>
         <li><strong>Frontend:</strong> Next.js, HTML5 Canvas, responsive CSS/JS</li>
       </ul>
     </td>
@@ -115,7 +159,7 @@ As a former **Exhibition Director** (managing multi-million dollar international
 * **The Core**: Leverages **LangGraph** to coordinate a multi-agent assembly (Analyst, Risk Officer, and Portfolio Manager) that debates quantitative signals and market states before executing simulated portfolio rebalancing.
 * **Why it shines**: Displays mastery of complex state machines, cyclical graphs, human-in-the-loop gates, and multi-agent coordination—the absolute state-of-the-art in modern AI engineering.
 
-#### [WikiAgent](https://github.com/Golden0Voyager/WikiAgent) `LangChain` `Advanced RAG` `Obsidian Graph`
+#### [wiki-agent](https://github.com/Golden0Voyager/wiki-agent) `LangChain` `Advanced RAG` `Obsidian Graph`
 > **Automated Cross-Domain Knowledge Ingestion & RAG Indexing Platform**
 * **The Core**: A zero-cost, production-grade pipeline that automatically ingests complex documents (PDF, DOCX, PPTX), extracts structured data using OCR and LLMs, auto-generates bidirectional Obsidian knowledge graphs, and pre-loads `bge-m3` semantic embeddings into a persistent Chroma DB server.
 * **Why it shines**: Implements multi-provider LLM intelligent routing with circuit breakers, directory watching, idempotent vector sync, and an active FastAPI query service layer.
@@ -124,12 +168,14 @@ As a former **Exhibition Director** (managing multi-million dollar international
 
 ### 💻 Full-Stack AI & Quantitative Analytics
 
-#### [Model Scout](https://github.com/Golden0Voyager/model_scout) `Next.js` `FastAPI` `Observability`
+#### [model-scout](https://github.com/Golden0Voyager/model-scout) `Next.js` `FastAPI` `Observability`
 > **LLM Performance & Synthetics Observability Dashboard**
 * **The Core**: Runs automated synthetic transactions against various LLM endpoints to evaluate real-time latency, API drift, availability, and semantic consistency.
 * **Why it shines**: Highlights full-stack architecture, combining elegant reactive Next.js frontends with high-throughput FastAPI backends for technical observability.
 
-#### [Quant Lab](https://github.com/Golden0Voyager/quant_lab) `Python` `AkShare` `LLM News Filter`
+---
+
+#### [quant-lab](https://github.com/Golden0Voyager/quant-lab) `Python` `AkShare` `LLM News Filter`
 > **A-Share News Extraction & AI Sentiment Evaluator**
 * **The Core**: Ingests high-frequency financial feeds using AkShare, filters market noise through a custom 3-engine data pipeline, and executes LLM semantic scoring to gauge market momentum.
 * **Why it shines**: Demonstrates clean integration of industrial data scraping, real-world finance API handling, and LLM classification metrics.
@@ -143,15 +189,15 @@ As a former **Exhibition Director** (managing multi-million dollar international
 * **The Core**: Converts static EPUB files into a highly dynamic neural audio experience with real-time translation layers, localized speech synthesizers, and adaptive UX.
 * **Why it shines**: Beautifully merges media APIs, TTS conversion engines, and frontend design paradigms.
 
-#### [Sugar Bee](https://github.com/Golden0Voyager/sugar_bee) `Flask` `SQLite` `Health Tech`
+#### [sugar-bee](https://github.com/Golden0Voyager/sugar-bee) `Flask` `SQLite` `Health Tech`
 > **Personal Blood Glucose Monitoring & Analytics Application**
 * **The Core**: A secure, database-backed tracker designed to log, model, and graph daily blood sugar levels, tracking metrics for metabolic feedback.
 * **Why it shines**: Proves execution of reliable database schemas, secure session management, and standard MVC web application fundamentals.
 
-#### [Auto Nutrition](https://github.com/Golden0Voyager/auto-nutrition) `Python` `MyFitnessPal API` `USDA API` `MCP`
-> **Automated Calorie & Dietary Macro-Nutrient Sync Pipeline & Custom MCP Server**
-* **The Core**: Integrates USDA food databases and MyFitnessPal APIs to automatically clean, calculate, and log daily metabolic and dietary intake. Can be run as a lightweight Model Context Protocol (MCP) server to feed clean health telemetry directly into LLM contexts.
-* **Why it shines**: Proves capability in third-party API OAuth/handling, data normalizations, protocol design, and headless automation.
+#### [Auto Nutrition](https://github.com/Golden0Voyager/auto-nutrition) `Python` `MyFitnessPal API` `USDA API`
+> **Automated Calorie & Dietary Macro-Nutrient Sync Pipeline**
+* **The Core**: Integrates USDA food databases and MyFitnessPal APIs to automatically clean, calculate, and log daily metabolic and dietary intake.
+* **Why it shines**: Proves capability in third-party API OAuth/handling, data normalizations, and headless automation.
 
 ---
 
@@ -191,6 +237,8 @@ As a former **Exhibition Director** (managing multi-million dollar international
 ---
 
 ## 🎖️ Credentials & Education
+* **Alibaba Cloud ACP (Alibaba Cloud Certified Professional)** - Large Model Senior Engineer (高级大模型算法工程师)
+* **AI Research Tracker**: Maintained a systematic [AI Literature Reading Ledger](https://github.com/Golden0Voyager/Golden0Voyager/blob/main/papers.csv) tracking 140+ core papers across Multi-Agent systems, prompt tuning, and cognitive architectures.
 * **MFA in Digital Arts** - Bowling Green State University, USA (GPA: 3.96 / Full Tuition Scholarship)
   * *Nominee for the Distinguished Studio Arts Award & Member of the Golden Key International Honour Society*
 * **BA in Digital & Multimedia** - Shandong University of Arts (National Scholarship Recipient, Outstanding Graduate)
@@ -199,7 +247,8 @@ As a former **Exhibition Director** (managing multi-million dollar international
 
 ## 📬 Connect & Collaborate
 * 📧 **Email**: [yhn0535@gmail.com](mailto:yhn0535@gmail.com)
-* 🗺️ **Based in**: Shanghai / Beijing, China (Open to global remote collaborations)
+* 📱 **Phone**: +86 13162006535
+* 🗺️ **Target Locations**: Shanghai / Suzhou (China) & Jakarta / Bali (Indonesia) | Open to remote, hybrid, or on-site roles
 * 🌐 **Portfolio**: Ask me for my comprehensive 55-page interactive PDF portfolio!
 
 ---

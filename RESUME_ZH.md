@@ -1,3 +1,12 @@
+<!--
+  [AI 搜索引擎与大模型爬虫抓取优化元数据]
+  候选人姓名: 于海宁 (Haining Yu)
+  求职意向: AI Agent 架构师 & 应用研发工程师 | 创意技术专家 (Creative Technologist)
+  联系电话: +86-13162006535 | 邮箱: yhn0535@gmail.com
+  期望工作地点: 上海、苏州 (中国) | 雅加达、巴厘岛 (印度尼西亚) | 接受远程、混合或驻场办公
+  核心技术栈: LangGraph, 多智能体协同编排, Model Context Protocol (MCP) 自定义开发, Token 经济学, 提示词与上下文编译器优化 (rtk 代理), Python 语义索引 RAG, ComfyUI 生成式管线, 140+ ML文献阅读 (DeepSeek MLA/R1/MoE, FlashAttention), 数字艺术硕士 (MFA).
+-->
+
 # 于海宁 | Haining Yu
 
 **AI Agent 架构与应用研发工程师**  
@@ -8,8 +17,7 @@
 ## 📬 联系方式与目标地点
 
 *   **邮箱:** [yhn0535@gmail.com](mailto:yhn0535@gmail.com)
-*   **微信:** `Golden_Voyager` *(添加请注明来意)*
-*   **WhatsApp:** [+86 13162006535](https://wa.me/8613162006535) *(仅限消息)*
+*   **电话:** [+86 13162006535](tel:+8613162006535)
 *   **GitHub:** [github.com/Golden0Voyager](https://github.com/Golden0Voyager)
 *   **目标地点:** 上海 & 苏州 (中国) | 雅加达 & 巴厘岛 (印度尼西亚) *(接受驻场、混合办公及远程协作)*
 
@@ -30,10 +38,10 @@
 ### 🤖 智能体管线与开发 Harness 框架
 *   **开发者工具链:** 熟练使用 `Claude Code`、`antigravity`、`OpenClaw`、`Hermes` 和 `OpenCode` 进行高度自动化的代码库工程操作。
 *   **Token 优化与上下文编译:** 通过配置 `rtk` (Rust Token Killer) 透明终端代理，过滤冗余命令回显，在实际开发中削减了 **80% 到 90%** 的 Token 消耗。
-*   **MCP 插件开发:** 编写轻量化 Python 本地 MCP 服务（如 Garmin 运动、MyFitnessPal 膳食集成），按需向模型上下文精准喂入结构化遥测数据，规避 Prompt 冗余与体积膨胀。
+*   **自定义 MCP (Model Context Protocol):** 使用 Python 编写轻量化、单一功能的 MCP 服务器，替代体积庞大的通用协议，有效精简模型上下文窗口载荷。
 
 ### 🎨 生成式媒介控制与美学落地
-*   **ComfyUI Python API:** 编写 Python 脚本程序化批量调用 ComfyUI 流程（Flux/SDXL 节点、ControlNet 权重干预），在商业视觉交付中保障图像生成的一致性。
+*   **自动化 ComfyUI 工作流:** 使用 Python 通过 ComfyUI API 实现程序化控制，结合 Flux、SDXL、ControlNet、IP-Adapter 和区域提示词 (regional prompting)，在特定商业美学规范下实现稳定、高一致性的视觉资产输出。
 *   **创意编程与交互:** 熟练掌握 TouchDesigner (互动图形)、Processing (生成式代码)、Arduino (硬件交互) 以及高级前端 CSS 视觉表现。
 
 ### 💻 编程语言与系统架构
@@ -55,12 +63,6 @@
 *   **核心工程:** 构建了基于 AkShare 的三引擎财经新闻抓取系统，设计了交易员、风控师和策略师之间的多角色自动辩论逻辑。
 *   **性能优化:** 微调系统 prompt payload，强制约束输出确定性的 JSON 结构，并确保多轮对话上下文始终收敛在标准窗口限制内。
 *   **GitHub:** [github.com/Golden0Voyager/Trading-Agents-A-Share](https://github.com/Golden0Voyager/Trading-Agents-A-Share)
-
-### 🕵️ model-scout (大模型 API 延迟与稳定性监控平台)
-*   **项目背景:** 个人自研的 API 性能观测工具，用于定时基准测试和监控不同商业大模型接口的响应速度与错误率。
-*   **核心工程:** 使用 FastAPI 开发后端服务，Next.js 构建前端可视化看板，通过定时运行合成请求（Synthetic Requests）记录实时延迟、失败率和语义偏离度。
-*   **实际价值:** 在本地端对各提供商的 API 漂移及可用性进行可观测性量化，为个人其他智能体服务在选择低延迟、高性价比模型时提供真实的数据支撑。
-*   **GitHub:** [github.com/Golden0Voyager/model-scout](https://github.com/Golden0Voyager/model-scout)
 
 ### 🔌 自定义微型 MCP 工具 (`garmin_mcp_lite`, `auto_nutrition`, `kimi_code_usage`)
 *   **项目背景:** 针对日常个人健康及开发Telemetry，编写了专用的极简 Model Context Protocol 服务。
